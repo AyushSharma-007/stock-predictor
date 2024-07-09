@@ -1,6 +1,6 @@
 # stock-predictor
 Predicting stock prices is a complex task, and it's important to understand the limitations before diving in.  Here's a breakdown of what you can do with Python:
-
+used to predict the value of future stock
 1. Libraries and Resources:
 
 Several Python libraries can be used for stock price prediction, including:
